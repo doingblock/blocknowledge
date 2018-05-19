@@ -29,3 +29,12 @@ ___
 ### 比特币开发
 * [比特币开发者指南(book)](http://book.8btc.com/books/6/bitcoin-developer-guide/_book/)
 * [巴比特图书区](http://book.8btc.com/)
+
+
+## 白皮书
+
+## 行业白皮书
+* [中国区块链应用和技术发展白皮书](https://github.com/doingblock/blocknowledge/blob/master/whitepaper/industry/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BA%94%E7%94%A8%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+
+## 数字货币白皮书
+
