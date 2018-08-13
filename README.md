@@ -40,7 +40,7 @@ ___
 * [详解以太坊的工作原理](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
 
 ### DApp开发
-
+* [智能合约语言Solidity教程](https://learnblockchain.cn/categories/ethereum/Solidity)
 ## 白皮书
 
 ## 行业白皮书
