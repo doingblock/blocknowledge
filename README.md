@@ -6,6 +6,9 @@ ___
     * [比特币基础](#比特币基础)
     * [比特币进阶](#比特币进阶)
     * [比特币开发](#比特币开发)
+* [以太坊](#以太坊)
+    * [以太坊基础](#以太坊基础)
+    * [DApp开发](#DApp开发)
 ___
 
 ## 比特币
@@ -30,9 +33,13 @@ ___
 * [巴比特图书区](http://book.8btc.com/)
 
 ## 以太坊
+
+### 以太坊基础
 * [以太坊白皮书](http://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 * [以太坊黄皮书](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
 * [详解以太坊的工作原理](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
+
+### DApp开发
 
 ## 白皮书
 
