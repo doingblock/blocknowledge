@@ -23,13 +23,16 @@ ___
 * [区块链核心技术演进之路 - 共识机制演进](https://zhuanlan.zhihu.com/p/24486576)
 * [区块链核心技术演进之路 - 挖矿演进](https://zhuanlan.zhihu.com/p/23558268)
 * [隔离见证](http://book.8btc.com/books/6/masterbitcoin2cn/_book/appdx-segwit.html)
-
-支付通道、跨连交易和闪电网络
+* [支付通道、跨连交易和闪电网络....]
 
 ### 比特币开发
 * [比特币开发者指南(book)](http://book.8btc.com/books/6/bitcoin-developer-guide/_book/)
 * [巴比特图书区](http://book.8btc.com/)
 
+## 以太坊
+* [以太坊白皮书](http://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
+* [以太坊黄皮书](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
+* [详解以太坊的工作原理](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
 
 ## 白皮书
 
