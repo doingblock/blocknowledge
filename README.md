@@ -27,6 +27,7 @@ ___
 * [区块链核心技术演进之路 - 挖矿演进](https://zhuanlan.zhihu.com/p/23558268)
 * [隔离见证](http://book.8btc.com/books/6/masterbitcoin2cn/_book/appdx-segwit.html)
 * [支付通道、跨连交易和闪电网络....]
+* [拜占庭将军问题](http://www.8btc.com/baizhantingjiangjun)
 
 ### 比特币开发
 * [比特币开发者指南(book)](http://book.8btc.com/books/6/bitcoin-developer-guide/_book/)
@@ -38,11 +39,22 @@ ___
 * [以太坊白皮书](http://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 * [以太坊黄皮书](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
 * [详解以太坊的工作原理](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
+* [深入了解以太坊虚拟机/EVM](https://lilymoana.github.io/evm_part1.html)
 
 ### DApp开发
+* [ETHFans Solidity](https://ethfans.org/wikis/Solidity-%E7%9B%AE%E5%BD%95)
 * [智能合约语言Solidity教程](https://learnblockchain.cn/categories/ethereum/Solidity)
 * [Solidity入门系列](http://me.tryblockchain.org/Solidity%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97.html)
 * [区块链入门（以太坊Dapp开发）](https://www.jianshu.com/p/2110ed61d2cc)
+
+## 区块链实现
+
+### node.js
+* [node.js开发加密货币](http://bitcoin-on-nodejs.ebookchain.org/)
+
+### Java
+
+### Python
 
 ## 白皮书
 
