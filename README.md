@@ -41,6 +41,9 @@ ___
 
 ### DApp开发
 * [智能合约语言Solidity教程](https://learnblockchain.cn/categories/ethereum/Solidity)
+* [Solidity入门系列](http://me.tryblockchain.org/Solidity%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97.html)
+* [区块链入门（以太坊Dapp开发）](https://www.jianshu.com/p/2110ed61d2cc)
+
 ## 白皮书
 
 ## 行业白皮书
